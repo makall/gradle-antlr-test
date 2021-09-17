@@ -1,0 +1,1 @@
+parser grammar aNotSoShortFileNameToEnsureTheFillingOfTheBuffer004; test: EOF;
